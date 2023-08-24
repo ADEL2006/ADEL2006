@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **ADEL2006/ADEL2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
