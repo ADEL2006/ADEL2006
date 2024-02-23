@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with inflearn
 - 💬 Ask me about back end
 - 📫 How to reach me: ...
-- 😄 Pronouns: yangki
+- 😄 Pronouns: yangki 
 - ⚡ Fun fact: i want to go home
 -->
